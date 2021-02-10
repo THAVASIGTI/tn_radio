@@ -5,13 +5,13 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="tn_radio", # Replace with your own username
-    version="0.0.5",
+    version="0.0.6",
     author="THAVASIGTI",
     author_email="ganeshanthavasigti1032000@gmail.com",
     description="Tamil Nadu Local Online Fm Station",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="",
+    url="https://github.com/THAVASIGTI/tn_radio.git",
     packages=setuptools.find_packages(),
     include_package_data=True,
     classifiers=[

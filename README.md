@@ -24,12 +24,12 @@ obj = tn_radio.Radio()
 
 obj.list_fm()
 
-0 Ohm Namashivaya[Chennai, India] \n
-1 Namakkal Thedal FM[Namakkal, India] \n
-2 Natrinai FM[Tiruchirappalli, India] \n
-3 Pudukkottai Thedal FM[Pudukkottai, India] \n
-4 முத்தமிழ் FM மேலூர்[Melur, India] \n
-5 Virudhunagar Thedal FM[Virudhunagar, India] \n
+0 Ohm Namashivaya[Chennai, India]
+1 Namakkal Thedal FM[Namakkal, India]
+2 Natrinai FM[Tiruchirappalli, India]
+3 Pudukkottai Thedal FM[Pudukkottai, India]
+4 முத்தமிழ் FM மேலூர்[Melur, India]
+5 Virudhunagar Thedal FM[Virudhunagar, India]
 
 SET STREAM FM INDEX
 
