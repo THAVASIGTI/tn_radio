@@ -1,11 +1,13 @@
 import setuptools
 
-with open("README.md", "r", encoding="utf-8") as fh:
-    long_description = fh.read()
+from os import path
+this_directory = path.abspath(path.dirname(__file__))
+with open(path.join(this_directory, 'README.md'), encoding='utf-8') as f:
+    long_description = f.read()
 
 setuptools.setup(
     name="tn_radio", # Replace with your own username
-    version="0.0.6",
+    version="0.1.10",
     author="THAVASIGTI",
     author_email="ganeshanthavasigti1032000@gmail.com",
     description="Tamil Nadu Local Online Fm Station",
