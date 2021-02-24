@@ -82,9 +82,9 @@ class Radio:
         try:
             dumplist = list()
             for item in enumerate(self.getFmList):
-                # dumplist.append(item)
-                print(item)
-            # return dumplist
+                dumplist.append(item)
+                print(dumplist)
+            return dumplist
         except Exception as e:
             logging.info(e)
 
