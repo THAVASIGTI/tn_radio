@@ -7,7 +7,7 @@ with open(path.join(this_directory, 'README.md'), encoding='utf-8') as f:
 
 setuptools.setup(
     name="tn_radio", # Replace with your own username
-    version="0.1.10",
+    version="0.1.11",
     author="THAVASIGTI",
     author_email="ganeshanthavasigti1032000@gmail.com",
     description="Tamil Nadu Local Online Fm Station",
